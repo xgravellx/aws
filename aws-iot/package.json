@@ -4,7 +4,8 @@
   "description": "",
   "main": "awsiot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node awsiot.js"
   },
   "author": "",
   "license": "ISC",
